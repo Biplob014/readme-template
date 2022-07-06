@@ -1,0 +1,17 @@
+---------Markdown---------
+1. comment
+2. normal text and new line
+3. horizental rule
+4. headings 
+5. paragraph 
+6. italic 
+7. bold
+8. strikethrough (del) 
+9. inline code block
+10. multiple line code block 
+11. list 
+12. link 
+13. image 
+14. emoji 
+15. table
+16. underilne
